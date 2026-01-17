@@ -1,9 +1,6 @@
 title: Portafolio Web
 description: Repositorio base para enseñar y crear documentación en GitHub Pages con Just the Docs
 
-# Local: usa el tema instalado por Gemfile
-theme: just-the-docs
-
 # GitHub Pages: modo recomendado
 remote_theme: just-the-docs/just-the-docs
 plugins:
