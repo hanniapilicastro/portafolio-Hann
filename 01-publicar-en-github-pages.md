@@ -59,12 +59,11 @@ Vas a partir del repo plantilla (este repositorio).
    - **Add file → Upload files**
    - Arrastra los archivos (descomprimidos) a la ventana
    - Clic en **Commit changes**
+![Figura 3 — Download ZIP + Upload files](assets/img/01-publicar/download.png)
+**Figura 3:** Descargar ZIP.
 
-![Figura 3 — New repo](assets/img/01-publicar/nuevo.png)
-**Figura 3:** Crear repositorio nuevo.
-
-![Figura 4 — Download ZIP + Upload files](assets/img/01-publicar/download.png)
-**Figura 4:** Descargar ZIP.
+![Figura 4 — New repo](assets/img/01-publicar/nuevo.png)
+**Figura 4:** Crear repositorio nuevo.
 
 
 ---
