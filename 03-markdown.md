@@ -147,7 +147,7 @@ Guarda el archivo en `assets/files/` y enlaza así:
 ```
 
 Ejemplo (cómo se ve):  
-[Descargar hoja de datos](assets/files/calendario.pdf
+[Descargar hoja de datos](assets/files/calendario.pdf)
 
 ### Enlace externo
 
@@ -300,7 +300,7 @@ Usa `git status` para ver cambios.
 
 ---
 
-## 9) Tablas (cuando conviene y cómo alinearlas)
+## 9) Tablas
 
 Código:
 
@@ -353,7 +353,7 @@ Ejemplo (cómo se ve):
 
 ---
 
-## 11) Bloques colapsables (útil para “solución” o “detalle”)
+## 11) Bloques colapsables 
 
 Puedes usar HTML nativo.
 
